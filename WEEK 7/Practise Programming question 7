@@ -6,7 +6,7 @@ write a Python program to print the playground of the given team id. team_id is 
 
 ## SOLUTION:
 
-'''python
+```python 
 import sys, os, psycopg2 as p
 f = open("team.txt" , "r")
 n = f.read()
@@ -26,4 +26,4 @@ for i in result :
 
 cur.close()
 conn.close()
-'''
+```
