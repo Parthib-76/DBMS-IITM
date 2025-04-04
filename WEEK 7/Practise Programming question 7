@@ -1,10 +1,12 @@
-PRACTISE PROGRAMMING QUESTION 5
+# PRACTISE PROGRAMMING QUESTION 5
 
 write a Python program to print the playground of the given team id. team_id is given in a file named 'team.txt' resides in the same folder as python program file.
  • The output of the python program is only playground name.
  • For example, if the team_id is 'T0002' . Then output must be Villa Park only
 
+## SOLUTION:
 
+'''python
 import sys, os, psycopg2 as p
 f = open("team.txt" , "r")
 n = f.read()
@@ -24,3 +26,4 @@ for i in result :
 
 cur.close()
 conn.close()
+'''
