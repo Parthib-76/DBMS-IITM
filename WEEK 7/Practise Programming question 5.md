@@ -1,4 +1,4 @@
-# PRACTISE PROGRAMMING QUESTION 5
+# WEEK 7 Practise Question 5
 
 write a Python program to print the playground of the given team id. team_id is given in a file named 'team.txt' resides in the same folder as python program file.
  • The output of the python program is only playground name.
