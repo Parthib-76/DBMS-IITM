@@ -1,4 +1,4 @@
-# WEEK 7 Practise Question 5 
+# WEEK 7 Practise Question 3
  Write a Python program to output the jersey number of the player. Player's name is given in a file named 'player.txt' resides in the same folder as python program file. 
 The output of the python program is only jersey number.  
 For example, if the jersey number of the player is 99. Then output must be 99 only. Note: No spaces.
